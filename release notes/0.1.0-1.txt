@@ -1,0 +1,8 @@
+Change Log (Date: 11-01-2017)
+
+SPHelper.listItem
+
+	Fix
+	
+	- updateListItem: Unable to update list item
+	- updateListItems: Unable to update list items

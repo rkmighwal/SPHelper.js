@@ -1,0 +1,7 @@
+Change Log (Date: 15-02-2017)
+
+SPHelper.listItem
+
+	Fix
+	
+	- getListItems: Item limit using $top value in querystring not working

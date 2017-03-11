@@ -1,0 +1,26 @@
+Initial Release (Date: 25-12-2016)
+
+SPHelper.listItem
+
+	New Methods
+	
+	- getListItem: To get single list item by item id using REST API
+	- getListItems: To get multiple list items using REST API
+	- saveListItem: To save single list item using REST API
+	- saveListItems: To save multiple list items using SharePoint JSOM
+	- updateListItem: To update single list item using REST API
+	- updateListItems: To update multiple list items using SharePoint JSOM
+	- deleteListItem: To delete single list item using REST API
+	- deleteListItems: To delete multiple list items using SharePoint JSOM
+
+SPHelper.common
+
+	New Methods
+	
+	- logError: Log error to console and Show to user screen.
+	- logErrorJSOM: Log error to console and show to user screen, for SharePoint JSOM calls.
+	- sendAJAXCall: Send AJAX calls using jQuery method
+	
+	New Properties
+	
+	- isjQueryExists: Check jQuery loaded or not

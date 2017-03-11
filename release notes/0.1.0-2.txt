@@ -1,0 +1,14 @@
+Change Log (Date: 22-01-2017)
+
+SPHelper.common
+
+	New Methods
+	
+	- getDaysDifference: Get Days count between 2 dates
+	- getFormattedDate: Get Date string, as per format
+	
+SPHelper.list [New]
+
+	New Methods
+	
+	- getListFields: Get SharePoint list fields using REST API
